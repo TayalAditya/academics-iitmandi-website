@@ -15,7 +15,7 @@ Maintained by the UG Academic Secretary, IIT Mandi.
 |---|---|
 | `index.html`, `courses.html`, `degreeprograms.html`, … | The 14 pages linked from the main menu, as the server sent them |
 | `css/`, `js/`, `images/` | The style sheets, scripts and images the pages load |
-| `docs/Academics_Website_Updates.pdf` | The full change document: every change with its location, screenshots, commit and code |
+| `docs/Academics Website Updates.pdf` | The full change document: every change with its location, screenshots and commit |
 | `docs/Academics_Website_Audit.xlsx` | The audit workbook (page issues, broken links, course-table lists) |
 | `docs/course_table_changes.csv` | Every row to add, mark or correct in the course table |
 | `docs/screenshots/` | Before/after screenshots used in the pull requests |
@@ -95,4 +95,4 @@ The three booklets were placed before the 66th BoA. They should go on the live s
 
 While preparing the changes, some differences turned up between the UG Ordinance 2026, the UG Handbook 2026,
 the UG Curriculum booklet and the minutes, for example the Discipline Core/Elective split of seven branches and
-the MTP and internship course codes. They are listed in Appendix F of `docs/Academics_Website_Updates.pdf`.
+the MTP and internship course codes. These need to be settled before the curriculum pages are final.
