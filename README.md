@@ -84,6 +84,7 @@ Some pull requests add the documents that their new links open:
 | File | Source | Added by |
 |---|---|---|
 | `pdf/ordinances/UG_Ordinance_2026.pdf` | UG Ordinance 2026 | H2, C9, C2, C6, O3 |
+| `pdf/admissions/curriculum/Batch<YEAR>_<PROGRAMME>.pdf` | One curriculum per programme and batch (65 files), cut from the UG Curriculum booklet, batches 2023–2026 (BoA annexure) | D1, C2 |
 | `pdf/courses/minors/<MINOR>.pdf` | One course basket per minor (20 files), cut from the Minors booklet (BoA annexure) | C5 |
 | `pdf/courses/Mutually_Exclusive_Courses.pdf` | Mutually Exclusive Courses booklet (BoA annexure) | C8 |
 | `files/IIT_Mandi_Course_Descriptions_2026.pdf` | Master Compilation of Courses (all BoA/Senate minutes) | C1 |
